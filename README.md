@@ -5,26 +5,26 @@ Decoding the Video Game Industry: Data Analysis of 16,500+ Titles  I’ve always
 <img width="326" height="400" alt="image" src="https://github.com/user-attachments/assets/09885f4e-a407-4ffd-9c1c-b00735eeb84a" />
 
 
-# Game Sales Analysis Dashboard
+# 🎮 Video Game Sales Analysis (Excel Dashboard)
 
 ## Project Overview
-This project provides a comprehensive analysis of global video game sales across 16,500+ titles. Using the Kaggle Video Game Sales dataset, I developed an interactive dashboard to explore market trends, regional preferences, and the relationship between professional reviews and user engagement.
+This project features an interactive Excel Dashboard that analyzes global video game sales data for over 16,500 titles. The goal was to transform raw Kaggle data into actionable insights regarding regional market trends, genre popularity, and the relationship between critic reviews and user engagement.
 
-## Key Insights & Features
-* **Global Market Dominance:** Analyzed sales by Genre, identifying 'Action' and 'Sports' as the primary revenue drivers.
-* **Regional Trends:** Visualized sales performance across North America (NA), Europe (EU), Japan (JP), and other regions, highlighting a peak in the market around 2008-2009.
-* **Critic vs. User Engagement:** A comparative analysis showing that while critics often favor certain genres (e.g., Shooter, Strategy), user counts (engagement) show significant spikes in specific genres like Action and Shooter.
-* **Interactive Slicers:** Users can filter the entire dataset by Platform, Year of Release, Genre, and ESRB Rating.
+## Key Features & Insights
+* **Dynamic UI:** Integrated Slicers for Platform, Year, Genre, and Rating for real-time data filtering.
+* **Global vs. Regional Analysis:** Comparative line charts showing the peak of the gaming market (2008-2009) and regional preferences across NA, EU, and JP.
+* **Performance Metrics:** Analyzed Genre vs. Rating to identify which categories consistently receive high critic scores versus user popularity.
+* **Engagement Tracking:** Visualized the gap between "Critic Count" and "User Count" to measure community engagement levels.
 
-## Tools Used
-* **Data Source:** Kaggle (Video Game Sales Dataset)
-* **Visualization:** Power BI / Excel (select yours)
-* **Data Cleaning:** Power Query
+## Technical Skills Used
+* **Data Cleaning:** Power Query (M) for handling null values and formatting.
+* **Analysis:** Pivot Tables and Advanced Excel Formulas.
+* **Visualization:** Pivot Charts, Slicers, and Custom Dashboard Layout Design.
 
 ## Dashboard Preview
-![Dashboard Screenshot](link-to-your-image-here.png)
+<img width="1900" height="864" alt="Screenshot 2026-03-05 121936" src="https://github.com/user-attachments/assets/0fa58821-4072-4c10-ae2f-ea1501221ec9" />
 
-## How to Use
-1. Download the `.pbix` (or .xlsx) file from this repository.
-2. Open with Power BI Desktop / Excel.
-3. Use the slicers on the left to filter data by your favorite console or era.
+
+## How to View
+1. Download the `Game_Sales_Analysis.xlsx` file.
+2. Use the Slicers on the left sidebar to interact with the data.
