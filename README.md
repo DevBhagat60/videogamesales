@@ -2,7 +2,7 @@
 Decoding the Video Game Industry: Data Analysis of 16,500+ Titles  I’ve always been fascinated by how the gaming industry evolved from the early 80s to the massive global market it is today. To explore this, I recently completed a deep-dive analysis into a dataset of over 16,500 games!
 
 
-<img width="326" height="507" alt="image" src="https://github.com/user-attachments/assets/09885f4e-a407-4ffd-9c1c-b00735eeb84a" />
+<img width="326" height="400" alt="image" src="https://github.com/user-attachments/assets/09885f4e-a407-4ffd-9c1c-b00735eeb84a" />
 
 
 # Game Sales Analysis Dashboard
